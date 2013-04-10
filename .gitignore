@@ -1,0 +1,6 @@
+bin
+res
+local.properties
+
+# Sublime Text
+*.sublime-*
